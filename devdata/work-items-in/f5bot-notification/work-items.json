@@ -1,0 +1,28 @@
+[
+  {
+    "payload": {
+      "email": {
+        "from": {
+          "name": "F5Bot",
+          "address": "admin@f5bot.com"
+        },
+        "to": [
+          {
+            "name": "Your F5Bot name",
+            "address": "your_f5bot_account_email"
+          }
+        ],
+        "cc": [],
+        "bcc": [],
+        "subject": "F5Bot found something: robocorp, rpa",
+        "date": "2023-01-17T16:35:12.000Z",
+        "replyTo": {
+          "name": "F5Bot",
+          "address": "admin@f5bot.com"
+        },
+        "text": "F5Bot found something!\n\n\nKeywords: \"robocorp\", \"rpa\"\n  Reddit Comments (/r/rpa/): 'Top RPA tool'\n    https://www.reddit.com/r/rpa/comments/10e8zk4/c/j4qopv7?context=3\n\nDo you have comments or suggestions about F5Bot? Please hit reply and let me know what you think!\n\nExplore, manage and automate your Apache Kafka® clusters from the comfort of your Mac with Franz.\n\nWant to advertise your company or product on F5Bot? Hit reply to get in touch.\n\n\n\n\nYou are receiving this email because you signed up for alerts from F5Bot.\nIf you no longer wish to receive these emails, please log into your account at\nhttps://f5bot.com or visit the link below to disable all future emails:\nhttps://f5bot.com"
+      }
+    },
+    "files": {}
+  }
+]

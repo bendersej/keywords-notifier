@@ -1,0 +1,5 @@
+{
+  "SlackNotifier": {
+    "WEBHOOK": "https://hooks.slack.com/services/XXX/XXX"
+  }
+}
